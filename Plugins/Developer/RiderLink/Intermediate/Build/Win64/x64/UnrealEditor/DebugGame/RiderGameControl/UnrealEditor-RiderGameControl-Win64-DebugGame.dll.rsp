@@ -35,7 +35,7 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\ArturoGonzalez\Projects\MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderGameControl\RiderGameControl.cpp.obj"
+"C:\Users\ArturoGonzalez\Projects\MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderGameControl\Module.RiderGameControl.cpp.obj"
 "C:\Users\ArturoGonzalez\Projects\MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderGameControl\Default.rc2.res"
 "C:\Users\ArturoGonzalez\Projects\MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\UnrealEditor-RD-Win64-DebugGame.lib"
 "C:\Users\ArturoGonzalez\Projects\MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderLink\UnrealEditor-RiderLink-Win64-DebugGame.lib"
